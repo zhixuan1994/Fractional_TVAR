@@ -172,4 +172,5 @@ class FTV_AR_GAM:
                             method='trust-constr', args = (TV_VAR_data, TV_VAR_target.reshape(-1,1)),
                             bounds=bounds).x
         self.TVAR_x = TV_VAR_x
+
     
