@@ -12,4 +12,4 @@ nan rao
 
 # How to use
 
-The main code, which includes both simulations and real-world applications, is in the Main.py file. The algorithms for the PINNs-based and GAM-based approaches are implemented in PINN_GAM_alg.py. Once all essential packages are installed, the code can be run directly.
+The main code, which includes both simulations and real-world applications, is in the Main.py file. The algorithms for the PINNs-based and GAM-based approaches are implemented in PINN_GAM_alg.py. Once all essential packages are installed, the code can be run directly. Additionally, both VIX and S\%P 500 csv files are located in the Data folder.
